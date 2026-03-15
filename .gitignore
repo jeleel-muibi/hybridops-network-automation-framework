@@ -1,0 +1,23 @@
+# Python virtualenvs
+env/
+venv/
+.venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Environment variables
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db
